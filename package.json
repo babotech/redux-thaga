@@ -1,6 +1,6 @@
 {
   "name": "redux-thaga",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Like redux-saga like redux-thunk",
   "files": [
     "dist",
@@ -51,6 +51,5 @@
     "redux": "^3.3.1",
     "webpack": "^1.12.13"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
